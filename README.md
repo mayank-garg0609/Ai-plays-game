@@ -5,3 +5,4 @@ conda activate pygame_env <br/>
 pip install pygame <br/>
 install pytorch from website {stable, pip, python, none} <br/>
 pip install matplotlib ipython <br/>
+python agent.py
